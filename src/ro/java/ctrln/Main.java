@@ -1,4 +1,4 @@
-package com.company;
+package ro.java.ctrln;
 
 public class Main {
 
@@ -6,3 +6,4 @@ public class Main {
 	    System.out.println("I learn the java language and about JVM!");
     }
 }
+
